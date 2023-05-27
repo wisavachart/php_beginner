@@ -30,6 +30,7 @@
         <input type="email" name="email" placeholder="Email" require><br>
         <input type="text" name="password" placeholder="Password" require><br>
         <button>Signup</button>
+        <button>Signup</button>
     </form>
     <?php require "footer.php";?>
 
